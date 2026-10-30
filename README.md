@@ -16,11 +16,11 @@
   <img src="./c-games-light.svg?v=3" width="100%" alt="Games" />
 </picture>
 
-<a href="https://stickmath.com"><img src="./p-stickmath.svg?v=3" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
+<a href="https://stickmath.com"><img src="./card-stickmath.svg" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./c-web-dark.svg?v=3" />
   <img src="./c-web-light.svg?v=3" width="100%" alt="Web apps" />
 </picture>
 
-<a href="https://rubric-mate.vercel.app"><img src="./p-rubricmate.svg?v=3" width="49%" alt="RubricMate. Turn a rubric into a live checklist. Try the live demo." /></a>
+<a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate.svg" width="49%" alt="RubricMate. Turn a rubric into a live checklist. Try the live demo." /></a>
