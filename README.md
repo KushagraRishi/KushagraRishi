@@ -12,15 +12,15 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./c-games-dark.svg?v=4" />
-  <img src="./c-games-light.svg?v=4" width="100%" alt="Games" />
+  <source media="(prefers-color-scheme: dark)" srcset="./cat-games-dark.svg" />
+  <img src="./cat-games-light.svg" width="100%" alt="Games" />
 </picture>
 
 <a href="https://stickmath.com"><img src="./card-stickmath.svg" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./c-web-dark.svg?v=4" />
-  <img src="./c-web-light.svg?v=4" width="100%" alt="Web apps" />
+  <source media="(prefers-color-scheme: dark)" srcset="./cat-web-dark.svg" />
+  <img src="./cat-web-light.svg" width="100%" alt="Web apps" />
 </picture>
 
 <a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate.svg" width="49%" alt="RubricMate. Turn a rubric into a live checklist. Try the live demo." /></a>
