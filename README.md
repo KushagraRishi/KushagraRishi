@@ -4,22 +4,23 @@
   <a href="https://www.linkedin.com/in/chaudharykushagra/"><img src="./linkedin.svg" height="52" alt="Message me on LinkedIn" /></a>
 </p>
 
-<img src="./ui-header.webp" width="100%" alt="Projects" />
+<br />
 
-<img src="./ui-cat-games.webp" width="100%" alt="Games" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./h-projects-dark.svg" />
+  <img src="./h-projects-light.svg" width="100%" alt="Selected work. Things I built." />
+</picture>
 
-<table>
-<tr>
-<td width="50%"><a href="https://stickmath.com"><img src="./ui-card-stickmath.webp" width="100%" alt="Stick Math. A matchstick puzzle game with over 1,000 puzzles and a 60 second rush mode." /></a></td>
-<td width="50%"></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./c-games-dark.svg" />
+  <img src="./c-games-light.svg" width="100%" alt="Games" />
+</picture>
 
-<img src="./ui-cat-web.webp" width="100%" alt="Web Applications" />
+<a href="https://stickmath.com"><img src="./p-stickmath.svg" width="100%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation. Play in your browser." /></a>
 
-<table>
-<tr>
-<td width="50%"><a href="https://rubric-mate.vercel.app"><img src="./ui-card-rubricmate.webp" width="100%" alt="RubricMate. Turn an assignment rubric into a live checklist while you write." /></a></td>
-<td width="50%"></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./c-web-dark.svg" />
+  <img src="./c-web-light.svg" width="100%" alt="Web apps" />
+</picture>
+
+<a href="https://rubric-mate.vercel.app"><img src="./p-rubricmate.svg" width="100%" alt="RubricMate. Turn an assignment rubric into a live checklist while you write. Try the live demo." /></a>
