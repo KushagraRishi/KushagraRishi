@@ -23,5 +23,5 @@
   <img src="./cat-web-light.svg" width="100%" alt="Web apps" />
 </picture>
 
-<a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate.svg" width="49%" alt="RubricMate. Turn a rubric into a live checklist. Try the live demo." /></a>
-<a href="https://sun-devil-stocks.vercel.app"><img src="./card-sundevil.svg" width="49%" alt="SunDevil Stocks. Learn to invest with play money." /></a>
+<a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate-v2.svg" width="49%" alt="RubricMate. Turn your assignment into a checklist." /></a>
+<a href="https://sun-devil-stocks.vercel.app"><img src="./card-sundevil-v2.svg" width="49%" alt="SunDevil Stocks. Earn points at events. Invest them. Get rewards." /></a>
