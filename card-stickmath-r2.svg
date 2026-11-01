@@ -25,7 +25,7 @@
 <g class="won"><circle cx="300" cy="248" r="13" fill="#22c55e"/><path d="M294 248l4.5 4.5 8.5-9" fill="none" stroke="#06210f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="322" y="256" class="ns8" font-size="22" fill="#86efac">Solved in one move</text></g>
 <path d="M44 290H756" stroke="#ffffff" stroke-opacity=".08"/>
-<text x="46" y="330" class="ns8" font-size="22" letter-spacing="4" fill="#f0a25a">06  ·  PUZZLE GAME</text>
+<text x="46" y="330" class="ns8" font-size="22" letter-spacing="4" fill="#f0a25a">07  ·  PUZZLE GAME</text>
 <text x="42" y="402" class="lg" font-size="68" fill="#fff3e2" filter="url(#tglow)">STICK MATH</text>
 <text x="46" y="448" class="ns6" font-size="27" fill="#d8c3ae">Move one stick. Fix the equation.</text>
 <g transform="translate(718,398)"><circle r="38" fill="#e2531b"/><circle r="38" fill="none" stroke="#ff9a62" stroke-opacity=".6"/><path d="M-11 0h22M3-8l8 8-8 8" fill="none" stroke="#fff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></g>
