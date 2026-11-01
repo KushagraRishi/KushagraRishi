@@ -7,8 +7,8 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./head5-dark.svg" />
-  <img src="./head5-light.svg" width="100%" alt="Selected work. Things I built." />
+  <source media="(prefers-color-scheme: dark)" srcset="./head6-dark.svg" />
+  <img src="./head6-light.svg" width="100%" alt="Selected work. Things I built." />
 </picture>
 
 <picture>
@@ -20,17 +20,18 @@
 <a href="https://sun-devil-stocks.vercel.app"><img src="./card-sundevil-r.svg" width="49%" alt="SunDevil Stocks. Earn points at events. Invest them. Get rewards." /></a>
 <a href="https://first-generation-connect.vercel.app"><img src="./card-fgconnect-r.svg" width="49%" alt="FGConnect. Make friends in the time you have." /></a>
 <a href="https://newsrecall.vercel.app"><img src="./card-newsrecall-r.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
+<a href="https://slidesift.vercel.app"><img src="./card-slidesift-r.svg" width="49%" alt="SlideSift. Every slide from your lecture video." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat2-cv-dark.svg" />
   <img src="./cat2-cv-light.svg" width="100%" alt="Computer vision" />
 </picture>
 
-<a href="https://study-spot-asu.vercel.app"><img src="./card-studyspot-r.svg" width="49%" alt="Study Spot. Cameras count people at the door. See open seats." /></a>
+<a href="https://study-spot-asu.vercel.app"><img src="./card-studyspot-r2.svg" width="49%" alt="Study Spot. Cameras count people at the door. See open seats." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat2-games-dark.svg" />
   <img src="./cat2-games-light.svg" width="100%" alt="Games" />
 </picture>
 
-<a href="https://stickmath.com"><img src="./card-stickmath-r.svg" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
+<a href="https://stickmath.com"><img src="./card-stickmath-r2.svg" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
