@@ -20,7 +20,7 @@
 <a href="https://sun-devil-stocks.vercel.app"><img src="./card-sundevil-r.svg" width="49%" alt="SunDevil Stocks. Earn points at events. Invest them. Get rewards." /></a>
 <a href="https://first-generation-connect.vercel.app"><img src="./card-fgconnect-r.svg" width="49%" alt="FGConnect. Make friends in the time you have." /></a>
 <a href="https://newsrecall.vercel.app"><img src="./card-newsrecall-r.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
-<a href="https://slidesift.vercel.app"><img src="./card-slidesift-r.svg" width="49%" alt="SlideSift. Every slide from your lecture video." /></a>
+<a href="https://slidesift.vercel.app"><img src="./card-slidesift-r2.svg" width="49%" alt="SlideSift. Every slide from your lecture video." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat2-cv-dark.svg" />
