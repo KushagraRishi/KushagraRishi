@@ -26,7 +26,7 @@
 <a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate-v2.svg" width="49%" alt="RubricMate. Turn your assignment into a checklist." /></a>
 <a href="https://sun-devil-stocks.vercel.app"><img src="./card-sundevil-v2.svg" width="49%" alt="SunDevil Stocks. Earn points at events. Invest them. Get rewards." /></a>
 <a href="https://first-generation-connect.vercel.app"><img src="./card-fgconnect.svg" width="49%" alt="FGConnect. Make friends in the time you have." /></a>
-<a href="https://ai-news-reader-one.vercel.app"><img src="./card-newsrecall.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
+<a href="https://newsrecall.vercel.app"><img src="./card-newsrecall.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat-cv-dark.svg" />
