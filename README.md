@@ -7,8 +7,8 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./head7-dark.svg" />
-  <img src="./head7-light.svg" width="100%" alt="Selected work. Things I built." />
+  <source media="(prefers-color-scheme: dark)" srcset="./head8-dark.svg" />
+  <img src="./head8-light.svg" width="100%" alt="Selected work. Things I built." />
 </picture>
 
 <picture>
