@@ -35,7 +35,7 @@
 <text x="662" y="157" text-anchor="middle" class="pm" font-size="12" fill="#fff" fill-opacity=".7">this week</text></g>
 </g>
 <path d="M44 290H756" stroke="#fff" stroke-opacity=".12"/>
-<text x="46" y="330" class="pm" font-size="20" letter-spacing="3" fill="#FFC627">02  ·  STOCK MARKET GAME</text>
+<text x="46" y="330" class="pm" font-size="20" letter-spacing="3" fill="#FFC627">07  ·  STOCK MARKET GAME</text>
 <text x="42" y="400" class="hg" font-size="62" letter-spacing="-1.5" fill="#fff">SunDevil Stocks</text>
 <text x="46" y="448" class="nr" font-size="29" fill="#f3d9e1">Earn points at events. Invest them. Get rewards.</text>
 <g transform="translate(718,398)"><circle r="38" fill="#FFC627"/><path d="M-11 0h22M3-8l8 8-8 8" fill="none" stroke="#8C1D40" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></g>
