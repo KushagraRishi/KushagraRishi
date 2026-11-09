@@ -26,7 +26,7 @@
 
 <a href="https://mindcontrol-site.vercel.app"><img src="./card-mindcontrol-2.svg" width="49%" alt="MindControl. Think on. The light turns on." /></a>
 <a href="https://proton-site-alpha.vercel.app"><img src="./card-proton-2.svg" width="49%" alt="Proton. A robot that loads flow cells for you." /></a>
-<a href="https://honeywell-site.vercel.app"><img src="./card-tars-1.svg" width="49%" alt="TARS Powder Robot. Clears metal powder so people do not have to." /></a>
+<a href="https://honeywell-site.vercel.app"><img src="./card-tars-2.svg" width="49%" alt="TARS Powder Robot. Clears metal powder so people do not have to." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat5-ai-dark.svg" />
