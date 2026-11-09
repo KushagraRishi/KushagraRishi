@@ -18,7 +18,7 @@
 <circle cx="328" cy="196" r="9" fill="#f0c537"/><text x="348" y="202" class="fs" font-size="18" fill="#2b2122">You've got a match!</text></g>
 </g>
 <path d="M44 290H756" stroke="#2b2122" stroke-opacity=".12"/>
-<text x="46" y="330" class="fs" font-size="18" letter-spacing="3.5" fill="#7a1f3d">08  ·  FRIEND FINDER</text>
+<text x="46" y="330" class="fs" font-size="18" letter-spacing="3.5" fill="#7a1f3d">09  ·  FRIEND FINDER</text>
 <text x="42" y="402" class="gl" font-size="64" letter-spacing="-1" fill="#2b2122">FGConnect</text>
 <text x="46" y="448" class="fr" font-size="27" fill="#6e5f61">Make friends in the time you have.</text>
 <g transform="translate(718,398)"><circle r="38" fill="#7a1f3d"/><path d="M-11 0h22M3-8l8 8-8 8" fill="none" stroke="#fff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></g>
