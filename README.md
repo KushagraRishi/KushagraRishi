@@ -26,28 +26,29 @@
 
 <a href="https://mindcontrol-site.vercel.app"><img src="./card-mindcontrol-2.svg" width="49%" alt="MindControl. Think on. The light turns on." /></a>
 <a href="https://proton-site-alpha.vercel.app"><img src="./card-proton-2.svg" width="49%" alt="Proton. A robot that loads flow cells for you." /></a>
+<a href="https://honeywell-site.vercel.app"><img src="./card-tars-1.svg" width="49%" alt="TARS Powder Robot. Clears metal powder so people do not have to." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat4-ai-dark.svg" />
   <img src="./cat4-ai-light.svg" width="100%" alt="AI concepts" />
 </picture>
 
-<a href="https://fema-dassh-site.vercel.app"><img src="./card-fema-2.svg" width="49%" alt="FEMA DASSH. Every disaster report, ranked by need." /></a>
+<a href="https://fema-dassh-site.vercel.app"><img src="./card-fema-3.svg" width="49%" alt="FEMA DASSH. Every disaster report, ranked by need." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat4-web-dark.svg" />
   <img src="./cat4-web-light.svg" width="100%" alt="Web apps" />
 </picture>
 
-<a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate-r4.svg" width="49%" alt="RubricMate. Turn your assignment into a checklist." /></a>
-<a href="https://sun-devil-stocks.vercel.app"><img src="./card-sundevil-r4.svg" width="49%" alt="SunDevil Stocks. Earn points at events. Invest them. Get rewards." /></a>
-<a href="https://first-generation-connect.vercel.app"><img src="./card-fgconnect-r4.svg" width="49%" alt="FGConnect. Make friends in the time you have." /></a>
-<a href="https://newsrecall.vercel.app"><img src="./card-newsrecall-r4.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
-<a href="https://slidesift.vercel.app"><img src="./card-slidesift-r4.svg" width="49%" alt="SlideSift. Every slide from your lecture video." /></a>
+<a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate-r5.svg" width="49%" alt="RubricMate. Turn your assignment into a checklist." /></a>
+<a href="https://sun-devil-stocks.vercel.app"><img src="./card-sundevil-r5.svg" width="49%" alt="SunDevil Stocks. Earn points at events. Invest them. Get rewards." /></a>
+<a href="https://first-generation-connect.vercel.app"><img src="./card-fgconnect-r5.svg" width="49%" alt="FGConnect. Make friends in the time you have." /></a>
+<a href="https://newsrecall.vercel.app"><img src="./card-newsrecall-r5.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
+<a href="https://slidesift.vercel.app"><img src="./card-slidesift-r5.svg" width="49%" alt="SlideSift. Every slide from your lecture video." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat4-games-dark.svg" />
   <img src="./cat4-games-light.svg" width="100%" alt="Games" />
 </picture>
 
-<a href="https://stickmath.com"><img src="./card-stickmath-r3.svg" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
+<a href="https://stickmath.com"><img src="./card-stickmath-r4.svg" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
