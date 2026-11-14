@@ -36,8 +36,8 @@
 <a href="https://fema-dassh-site.vercel.app"><img src="./card-fema-3.svg" width="49%" alt="FEMA DASSH. Every disaster report, ranked by need." /></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cat6-apps-dark.svg" />
-  <img src="./cat6-apps-light.svg" width="100%" alt="Apps" />
+  <source media="(prefers-color-scheme: dark)" srcset="./cat7-web-dark.svg" />
+  <img src="./cat7-web-light.svg" width="100%" alt="Web apps" />
 </picture>
 
 <a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate-r5.svg" width="49%" alt="RubricMate. Turn your assignment into a checklist." /></a>
@@ -45,11 +45,17 @@
 <a href="https://first-generation-connect.vercel.app"><img src="./card-fgconnect-r5.svg" width="49%" alt="FGConnect. Make friends in the time you have." /></a>
 <a href="https://newsrecall.vercel.app"><img src="./card-newsrecall-r5.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
 <a href="https://slidesift.vercel.app"><img src="./card-slidesift-r5.svg" width="49%" alt="SlideSift. Every slide from your lecture video." /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./cat7-mac-dark.svg" />
+  <img src="./cat7-mac-light.svg" width="100%" alt="Mac app" />
+</picture>
+
 <a href="https://focuslock-site.vercel.app"><img src="./card-focuslock-3.svg" width="49%" alt="FocusLock. Block distractions with no way out." /></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cat5-games-dark.svg" />
-  <img src="./cat5-games-light.svg" width="100%" alt="Games" />
+  <source media="(prefers-color-scheme: dark)" srcset="./cat7-games-dark.svg" />
+  <img src="./cat7-games-light.svg" width="100%" alt="Games" />
 </picture>
 
 <a href="https://stickmath.com"><img src="./card-stickmath-r5.svg" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
