@@ -45,7 +45,7 @@
 <a href="https://first-generation-connect.vercel.app"><img src="./card-fgconnect-r5.svg" width="49%" alt="FGConnect. Make friends in the time you have." /></a>
 <a href="https://newsrecall.vercel.app"><img src="./card-newsrecall-r5.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
 <a href="https://slidesift.vercel.app"><img src="./card-slidesift-r5.svg" width="49%" alt="SlideSift. Every slide from your lecture video." /></a>
-<a href="https://focuslock-site.vercel.app"><img src="./card-focuslock-2.svg" width="49%" alt="FocusLock. Block distractions with no way out." /></a>
+<a href="https://focuslock-site.vercel.app"><img src="./card-focuslock-3.svg" width="49%" alt="FocusLock. Block distractions with no way out." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat5-games-dark.svg" />
