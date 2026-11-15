@@ -40,22 +40,23 @@
   <img src="./cat7-web-light.svg" width="100%" alt="Web apps" />
 </picture>
 
-<a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate-r5.svg" width="49%" alt="RubricMate. Turn your assignment into a checklist." /></a>
-<a href="https://sun-devil-stocks.vercel.app"><img src="./card-sundevil-r5.svg" width="49%" alt="SunDevil Stocks. Earn points at events. Invest them. Get rewards." /></a>
-<a href="https://first-generation-connect.vercel.app"><img src="./card-fgconnect-r5.svg" width="49%" alt="FGConnect. Make friends in the time you have." /></a>
-<a href="https://newsrecall.vercel.app"><img src="./card-newsrecall-r5.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
-<a href="https://slidesift.vercel.app"><img src="./card-slidesift-r5.svg" width="49%" alt="SlideSift. Every slide from your lecture video." /></a>
+<a href="https://bridgemytunes-chi.vercel.app"><img src="./card-bridgemytunes-1.svg" width="49%" alt="BridgeMyTunes. Share a song with anyone, on any app." /></a>
+<a href="https://rubric-mate.vercel.app"><img src="./card-rubricmate-r6.svg" width="49%" alt="RubricMate. Turn your assignment into a checklist." /></a>
+<a href="https://sun-devil-stocks.vercel.app"><img src="./card-sundevil-r6.svg" width="49%" alt="SunDevil Stocks. Earn points at events. Invest them. Get rewards." /></a>
+<a href="https://first-generation-connect.vercel.app"><img src="./card-fgconnect-r6.svg" width="49%" alt="FGConnect. Make friends in the time you have." /></a>
+<a href="https://newsrecall.vercel.app"><img src="./card-newsrecall-r6.svg" width="49%" alt="NewsRecall. Read less. Remember more." /></a>
+<a href="https://slidesift.vercel.app"><img src="./card-slidesift-r6.svg" width="49%" alt="SlideSift. Every slide from your lecture video." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat7-mac-dark.svg" />
   <img src="./cat7-mac-light.svg" width="100%" alt="Mac app" />
 </picture>
 
-<a href="https://focuslock-site.vercel.app"><img src="./card-focuslock-3.svg" width="49%" alt="FocusLock. Block distractions with no way out." /></a>
+<a href="https://focuslock-site.vercel.app"><img src="./card-focuslock-4.svg" width="49%" alt="FocusLock. Block distractions with no way out." /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cat7-games-dark.svg" />
   <img src="./cat7-games-light.svg" width="100%" alt="Games" />
 </picture>
 
-<a href="https://stickmath.com"><img src="./card-stickmath-r5.svg" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
+<a href="https://stickmath.com"><img src="./card-stickmath-r6.svg" width="49%" alt="Stick Math. A matchstick puzzle game. Move one stick to fix the equation." /></a>
